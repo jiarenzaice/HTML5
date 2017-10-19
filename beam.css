@@ -14,3 +14,63 @@
 div{
 	position: absolute;
 }
+.d_shield1,.d_shield2,.d_shield3,.d_shield4,.d_shield5,.d_shield6,{
+	background: #e15016
+}
+.d_shield1{
+	left: 32px;
+	width: 140px;
+	height: 346px;
+}
+.d_shield2{
+	transform: skewX(5deg);
+	left: 16px;
+	width: 100px;
+	height: 346px;
+}
+.d_shield3{
+	transform: skewY(15deg);
+	top: 265PX;
+	left: 32px;
+	width: 140px;
+	height: 100px;
+}
+.d_shield4{
+	left: 172px;
+	width: 140px;
+	height: 346px;
+}
+.d_shield5{
+	transform: skewX(-5deg);
+	left: 227px;
+	width: 100px;
+	height: 346px;
+}
+.d_shield6{
+	transform: skewY(-15deg);
+	top: 265PX;
+	left: 172px;
+	width: 140px;
+	height: 100px;
+}
+.l_shield1{
+	background: #ee6812;
+	left: 172px;
+	width: 140px;
+	height: 346px;
+}
+.l_shield2{
+	background: #ee6812;
+	transform: skewX(-5deg);
+	left: 227px;
+	width: 100px;
+	height: 363px;
+}
+.l_shield3{
+	background: #ee6812;
+	transform: skewY(-15deg);
+	top: 282px;
+	left: 172px;
+	width: 138px;
+	height: 100px;
+}
